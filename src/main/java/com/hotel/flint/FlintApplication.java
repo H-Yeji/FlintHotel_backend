@@ -10,6 +10,7 @@ public class FlintApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FlintApplication.class, args);
+
 	}
 
 }
